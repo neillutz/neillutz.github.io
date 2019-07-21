@@ -1,0 +1,45 @@
+Neil Lutz 
+Postdoc in Computer and Information Science 
+University of Pennsylvania 
+
+[CV] 
+
+Contact
+Email: nlutz@cis.upenn.edu 
+Office: 3401 Walnut, Room 455C
+Research
+Quantifying the Burden of Exploration and the Unfairness of Free Riding 
+with Christopher Jung and Sampath Kannan 
+Robustness and Games Against Nature in Molecular Programming 
+with Jack H. Lutz, Robyn R. Lutz, and Matthew Riley 
+NIER track at International Conference on Software Engineering (ICSE), 2019. 
+Projection Theorems Using Effective Dimension 
+with D. M. Stull 
+International Symposium on Mathematical Foundations of Computer Science (MFCS), 2018. 
+Algorithmic information, plane Kakeya sets, and conditional dimension 
+with Jack H. Lutz 
+ACM Transactions on Computation Theory (TOCT), 2018. 
+Some open problems in algorithmic fractal geometry 
+edited by William Gasarch 
+Open Problems Column, SIGACT News, 2017. 
+Fractal Intersections and Products via Algorithmic Dimension 
+International Symposium on Mathematical Foundations of Computer Science (MFCS), 2017. 
+Dynamics at the Boundary of Game Theory and Distributed Computing 
+with Aaron D. Jaggard, Michael Schapira, and Rebecca N. Wright 
+ACM Transactions on Economics and Computation (TEAC), 2017. 
+Dimension Spectra of Lines 
+with D. M. Stull 
+Conference on Computability in Europe (CiE), 2017. 
+A Note on Pointwise Dimensions 
+Bounding the Dimension of Points on a Line 
+with D. M. Stull 
+Theory and Applications of Models of Computation (TAMC), 2017. 
+Stateless Computation 
+with Danny Dolev, Michael Erdmann, Michael Schapira, and Adva Zair 
+Brief announcement at ACM Symposium on Principles of Distributed Computing (PODC), 2017. 
+Lines missing every random point 
+with Jack H. Lutz 
+Computability, 2015. 
+Self-stabilizing uncoupled dynamics 
+with Aaron D. Jaggard, Michael Schapira, and Rebecca N. Wright 
+Symposium on Algorithmic Game Theory (SAGT), 2014. 
